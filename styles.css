@@ -21,8 +21,32 @@ body{
 }
 
 span{
-    
+    display: block;
+    text-align: center;
+    font-size: 100px;    
 }
+
+p{
+    font-size: 16px;
+    color: #ffff;
+    font-weight: 400;
+    text-align: center;
+    word-wrap: break-word;
+    line-height: 35px;
+    margin: 30px 0;
+}
+
+button{
+    display: block;
+    background-color: #ffd66f;
+    border: none;
+    padding: 5px;
+}
+
+
+
+
+
 
 
 
